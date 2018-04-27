@@ -7,7 +7,7 @@ https://fadytito.github.io/Recipe-Book
 * Bootstrap
 * Angular 2+
 ## Goals
-The main goal of this project was making complete single page application with angular4.
+The main goal of this project was making a complete single page application with angular4.
 ## 
 ## Credits
 The idea credit goes to Maximilian Schwarzmüller.
